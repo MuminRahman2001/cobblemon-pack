@@ -281,11 +281,6 @@ hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
 metafile = true
 
 [[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "2cfad52dbc5bd12df95bf3b3f8de574bb7d185a90caaf32829a9b19bc98aebe8"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "108739f2fdaa6a885a3217ae692b2521ab10b8e71fa1222c67274ea0562649a5"
 metafile = true
@@ -323,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/in-control.pw.toml"
 hash = "1d29132b5ab008c93c8ede5a5b5fb84a5eace32c8f356ed16a66a23cb00d7f28"
-metafile = true
-
-[[files]]
-file = "mods/integrated-cobblemon.pw.toml"
-hash = "5f7091f251f7aa94947703a3f50219cfe9585cb8684f3782146b329d82305d35"
 metafile = true
 
 [[files]]
