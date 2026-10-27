@@ -1,0 +1,13 @@
+name = "Beautify: ReFoxed"
+filename = "beautify-3.6.0-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZQCyyWBM/versions/CKS6Ruaa/beautify-3.6.0-neoforge%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "fc00431907f084158ed1208caca2b3e208ede022d8e0f1aa712abf5d3a73802b64a8b56695573a51d04957e50ba702c973d23ac10aa54e8a23241694f721c8c3"
+
+[update]
+[update.modrinth]
+mod-id = "ZQCyyWBM"
+version = "CKS6Ruaa"

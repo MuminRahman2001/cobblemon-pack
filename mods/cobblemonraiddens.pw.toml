@@ -1,0 +1,13 @@
+name = "Cobblemon Raid Dens"
+filename = "cobblemonraiddens-neoforge-0.13.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GebWh45l/versions/LWL8Dlw8/cobblemonraiddens-neoforge-0.13.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "6083afb1332c79f1801e3825f2d577ec05f9949489d21bc1611621e71ad142dc5465a6c57ba867d692624111f75a684866d89f2186758f32abdb2799f3d24054"
+
+[update]
+[update.modrinth]
+mod-id = "GebWh45l"
+version = "LWL8Dlw8"
