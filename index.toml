@@ -490,6 +490,11 @@ hash = "8691a6080607f512d7adbbc1c17911ba83db273a5b5f113711fd8408b8d6a9df"
 metafile = true
 
 [[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "ef65836e005bd42a0f40df30a94eba1ad7ee5ed3194b11eafbeadc64edb44252"
 metafile = true
