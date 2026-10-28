@@ -1,0 +1,13 @@
+name = "Cobblemon Botany Pots"
+filename = "cobblemon_pots-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CeowHsxL/versions/sGB5kY4X/cobblemon_pots-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "3cbea8a05563b5094095ad70df8623b300feacdba768d7172176e2a18a51b475f8751e7f894b7a7a6883f00de96ff2b1cf2c6684becba45e129cf6f7d1d847a6"
+
+[update]
+[update.modrinth]
+mod-id = "CeowHsxL"
+version = "sGB5kY4X"

@@ -1,0 +1,13 @@
+name = "FTB Unearthed"
+filename = "ftb-unearthed-21.1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14e55c9538167441cb831e946a51671dec59a884"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7879426
+project-id = 1369858
