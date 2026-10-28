@@ -1,0 +1,13 @@
+name = "Chiselmon - Cobblemon QOL"
+filename = "Chiselmon-neoforge-1.4.2+cobblemon-1.8.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/80uWxpv7/versions/MnkHnYrW/Chiselmon-neoforge-1.4.2%2Bcobblemon-1.8.0.jar"
+hash-format = "sha512"
+hash = "3912d4cf7dd878620d932a9e29738537426610d2bef46da278d7ce45c246657ee45e5a19ee5153cfe50d6336c8924023327b3ee32cfbfe4f6ba0e5ce9f3400f8"
+
+[update]
+[update.modrinth]
+mod-id = "80uWxpv7"
+version = "MnkHnYrW"
