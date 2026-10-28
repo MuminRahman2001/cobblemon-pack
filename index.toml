@@ -236,11 +236,6 @@ hash = "37ae0fc372cc387710fb7cb525f79a405e88f9e88786f83c1e0834e127997d35"
 metafile = true
 
 [[files]]
-file = "mods/explorers-compass.pw.toml"
-hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
-metafile = true
-
-[[files]]
 file = "mods/extended-ae.pw.toml"
 hash = "03494a76b42b1b79e4d36a93317b8e884cafdb7e08f6103ce47ecd4e4df57645"
 metafile = true
@@ -314,6 +309,10 @@ metafile = true
 file = "mods/guideme.pw.toml"
 hash = "d897a4efe0291252e8d9f6d1db8c6513074fe4cbfeb27fafc041bc145ca35e24"
 metafile = true
+
+[[files]]
+file = "mods/gymcompass-1.0.0.jar"
+hash = "02ee7cfa31069de3a39480619669f3c5e400fbcae5b578cfb9d9306132639f87"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
