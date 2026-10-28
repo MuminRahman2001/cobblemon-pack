@@ -1,0 +1,13 @@
+name = "Cobblemon x Oritech Compat"
+filename = "cobbletech-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9aM5Liw0/versions/TJ2r0Nv3/cobbletech-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "09d13c4e00f1a1f8b8e0ee76a06e44606689ce8b92c1267da3cddfb4a3853f540aa1d540b24f8f41f46a40acc41542257ebadcae81cbf16603eff643cdd1208b"
+
+[update]
+[update.modrinth]
+mod-id = "9aM5Liw0"
+version = "TJ2r0Nv3"
