@@ -1,0 +1,13 @@
+name = "Relics"
+filename = "relics-1.21.1-0.12.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b08cae77490805eb05148a0c008012f39d08b22c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9304148
+project-id = 445274
