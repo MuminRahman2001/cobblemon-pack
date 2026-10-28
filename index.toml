@@ -361,8 +361,8 @@ hash = "d897a4efe0291252e8d9f6d1db8c6513074fe4cbfeb27fafc041bc145ca35e24"
 metafile = true
 
 [[files]]
-file = "mods/gymcompass-1.0.0.jar"
-hash = "02ee7cfa31069de3a39480619669f3c5e400fbcae5b578cfb9d9306132639f87"
+file = "mods/gymcompass-1.2.0.jar"
+hash = "7bf0d9b6c967b8ae57269832e84d9923edc90d053d326e4f8ec1db6f2fd48851"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
