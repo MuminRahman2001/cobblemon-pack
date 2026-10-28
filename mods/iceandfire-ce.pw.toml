@@ -1,14 +1,14 @@
 name = "IceAndFire Community Edition"
-filename = "iceandfire-2.0.jar"
+filename = "iceandfire-2.1-beta.1.jar"
 side = "both"
 pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/VpmCsizY/versions/soR168tk/iceandfire-2.0.jar"
+url = "https://cdn.modrinth.com/data/VpmCsizY/versions/o6K8vx54/iceandfire-2.1-beta.1.jar"
 hash-format = "sha512"
-hash = "5545eeb0d999bbc1de32085d0f14ebcdc2908b4d9025191ebea485c134488ef812f74fa0c65e79917d0d436b522f85f7d17e0d83e0f704406dfc524d34c51860"
+hash = "8e196439f3a709d65648989a29c6742cec3a7dce540c5fe0a63dc6daab5aad88fd96ad7c2328854771dca19f29fa2fc170f99e11412b3dc25aa805852460ce67"
 
 [update]
 [update.modrinth]
 mod-id = "VpmCsizY"
-version = "soR168tk"
+version = "o6K8vx54"
