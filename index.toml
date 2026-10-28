@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/chiselmon/config.json"
+hash = "0eeec85e9e050f23618c8fbb60ee2f06d4027138bf49b88b253247e8e68cc5ac"
+
+[[files]]
+file = "config/chiselmon/filters.json"
+hash = "0c57939c4658b251f8e5dc841e663b15d4425d030c67e4d9e1b880e936de684e"
+
+[[files]]
 file = "mods/aaron.pw.toml"
 hash = "3df48f767dd20597e00a03bcddab4e24de244739535ca3129f0e01cd52812354"
 metafile = true
