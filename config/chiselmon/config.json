@@ -1,0 +1,109 @@
+{
+	"general": {
+		"mod_disabled": false,
+		"move_detail": true,
+		"check_spawn_detail": true,
+		"pokerod_overlay": true,
+		"discord_webhook_u_r_l": "",
+		"discord_user_id": "",
+		"egg_spy": {
+			"enabled": false,
+			"show_hatch_overlay": false
+		},
+		"thresholds": {
+			"extreme_small": 0.3,
+			"extreme_large": 1.7,
+			"max_ivs": 5
+		}
+	},
+	"pc": {
+		"quick_sort": {
+			"enabled": false,
+			"mode": "POKEDEX_NUMBER",
+			"hotkey": {
+				"type": "MOUSE",
+				"value": 2
+			}
+		},
+		"tooltip": {
+			"enabled": true,
+			"show_on_hover": false,
+			"extend_on_shift": true,
+			"ivs": true,
+			"original_trainer": true,
+			"form": true,
+			"friendship": false,
+			"ride_styles": false,
+			"marks": true,
+			"hatch_progress": false
+		},
+		"icon": {
+			"enabled": true,
+			"hidden_ability": true,
+			"ivs": true,
+			"shiny": true,
+			"size": true,
+			"mark": true,
+			"rideable": false,
+			"shoulderable": false
+		}
+	},
+	"alert": {
+		"master_enabled": true,
+		"master_volume": 100,
+		"lure_alert": {
+			"enabled": true,
+			"send_chat_message": false,
+			"send_discord_message": false,
+			"play_sound": true,
+			"alert_sound": "PLING",
+			"volume": 100
+		},
+		"filter_alerts": {
+			"extreme_sizes": {
+				"repeat_sound": true,
+				"highlight_entity": true,
+				"enabled": false,
+				"send_chat_message": true,
+				"send_discord_message": false,
+				"play_sound": true,
+				"alert_sound": "PLING",
+				"volume": 100
+			},
+			"legendaries": {
+				"repeat_sound": true,
+				"highlight_entity": true,
+				"enabled": true,
+				"send_chat_message": true,
+				"send_discord_message": false,
+				"play_sound": true,
+				"alert_sound": "PLING",
+				"volume": 100
+			},
+			"shinies": {
+				"repeat_sound": true,
+				"highlight_entity": true,
+				"enabled": true,
+				"send_chat_message": true,
+				"send_discord_message": false,
+				"play_sound": true,
+				"alert_sound": "PLING",
+				"volume": 100
+			},
+			"alphas": {
+				"repeat_sound": true,
+				"highlight_entity": true,
+				"enabled": true,
+				"send_chat_message": true,
+				"send_discord_message": false,
+				"play_sound": true,
+				"alert_sound": "PLING",
+				"volume": 100
+			}
+		}
+	},
+	"recorder": {
+		"action_bar": true,
+		"despawn_glow": false
+	}
+}

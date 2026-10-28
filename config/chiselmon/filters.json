@@ -1,0 +1,36 @@
+{
+  "filters": {
+    "legendaries": {
+      "id": "legendaries",
+      "displayName": "Legendary Pokemon",
+      "rgb": 16711935,
+      "priority": "HIGHEST",
+      "conditionString": "legendary",
+      "tags": null
+    },
+    "shinies": {
+      "id": "shinies",
+      "displayName": "Shiny Pokemon",
+      "rgb": -10496,
+      "priority": "HIGH",
+      "conditionString": "shiny",
+      "tags": null
+    },
+    "alphas": {
+      "id": "alphas",
+      "displayName": "Alpha Pokemon",
+      "rgb": -759401,
+      "priority": "NORMAL",
+      "conditionString": "alpha",
+      "tags": null
+    },
+    "extreme_sizes": {
+      "id": "extreme_sizes",
+      "displayName": "Extreme Size Pokemon",
+      "rgb": -16744320,
+      "priority": "NORMAL",
+      "conditionString": "extreme_size",
+      "tags": null
+    }
+  }
+}
