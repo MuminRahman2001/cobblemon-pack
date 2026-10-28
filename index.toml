@@ -151,11 +151,6 @@ hash = "6beb1d27bf94f370291a868c5c5470eb6aaab5f9990ce5d66f3eba0ea4a3fec8"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-botany-pots.pw.toml"
-hash = "a3be4937a6a0f7fb2a2a8bd8bb9d1cc819bb366c3b960e5ad107dee347ad9267"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-box-link.pw.toml"
 hash = "18c0c7885a50d6f9f665de142356a74613e403354ec09770cf3d6d8080a62e20"
 metafile = true
